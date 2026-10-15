@@ -1,0 +1,7 @@
+neuprint-python
+navis
+librosa
+matplotlib
+scipy
+pandas
+numpy
